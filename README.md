@@ -1,5 +1,6 @@
 # My-first-Data-analysis-repo
-For my first task in Learning PowerBI for Data analysis, I am instructed to build this repository to elaborate the essential steps needed to be taken when approaching a Data analysis project.
+For my first task in Learning PowerBI for Data analysis, I am instructed to build this repository to elaborate the essential steps needed to be taken when approaching a Data analysis project. These steps are outlined below;
+
 ## Steps to take when approaching data Analysis Project
 1. Ask relevant questions
 Data analytics projects undertaken, is meant for you to address the needs of the organization or business. Seeking clarity is important when addressing data analytics projects.
