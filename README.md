@@ -19,4 +19,4 @@ Engage stakeholders with your suggestions and recommendations from the isights t
 In doing this, share insights you have discovered from stakeholders upon analysing your data.
 
 6. Document your project
-Learn to note down every step you utilized in arriving at your insights. This will help your stake holders to find meaning to your data analysis insights and undertand your findings.
+Learn to note down every step you utilized in arriving at your insights. This will help your stake holders to find meaning to your data analysis insights and understand your findings.
